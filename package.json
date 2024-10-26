@@ -1,5 +1,5 @@
 {
-		"name": "Priyansh",
+		"name": "SHANKAR-BOT",
 		"version": "10.1.1",
 		"description": "A simple Facebook Messenger Bot made by 𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡 𝐑𝐚𝐣𝐩𝐮𝐭.",
 		"main": "Siegfried Sama",
@@ -26,7 +26,7 @@
 				"prince",
 				"mental"
 		],
-		"author": "𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡 𝐑𝐚𝐣𝐩𝐮𝐭",
+		"author": "SMART SHANKAR ",
 		"license": "GPL-3.0",
 		"bugs": {
 				"url": "https://github.com/Priyansh-11/Priyansh-bot/issues"
@@ -57,7 +57,7 @@
 				"express": "^4.19.2",
 				"extract-zip": "^2.0.1",
 				"fb-tools": "0.0.1-security",
-				"fca-priyansh": "^16.0.0",
+				"fca-smart-shankar": "^1.5.6",
 				"figlet": "^1.5.2",
 				"form-data": "^4.0.0",
 				"fs-extra": "^10.1.0",
